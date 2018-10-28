@@ -10,11 +10,16 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 A list of events currently offering travel grants or have an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+### [VueConfTO 2018](https://vuetoronto.com)
++ __Info__:: Be part of the awesome Vue.js conference happening in the tech city Toronto, Canada from Nov, 14 to 16, 2018. 
++ __Dates & Venue__:: November 14th to 16th, 2018  @ Toronto, Ontario, Canada .
++ __CFP__:: [CFP closes April 9th](http://2016.writespeakcode.com/cfp).
++ __Diversity__:: All speakers will get: (1) A ticket to the conference, (2) Speaker housing and (3) $500 honorarium.
+
 ### [Write/Speak/Code](http://2016.writespeakcode.com)
 + __Info__:: WSC aims to empower women software developers become thought leaders, conference speakers, and open source contributors in their field of expertise. It offers practical advice for women on improving their writing, speaking and coding skills.
 + __Dates & Venue__:: 2016June15-18 @ Chicago.
-+ __CFP__:: [CFP closes April 9th](http://2016.writespeakcode.com/cfp).
-+ __Diversity__:: All speakers will get: (1) A ticket to the conference, (2) Speaker housing and (3) $500 honorarium.
++ __Diversity__:: All speakers will get: A ticket to the conference.
 
 ### [Self.conference](http://selfconference.org/)
 + __Info__:: A software conference with half technical talks (languages, tools, process) and half people talks (diversity, inclusion, mental health).
